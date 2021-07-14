@@ -2,9 +2,9 @@
 
 namespace Sinnrrr\Diia;
 
+use Sinnrrr\Diia\Commands\DiiaCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sinnrrr\Diia\Commands\DiiaCommand;
 
 class DiiaServiceProvider extends PackageServiceProvider
 {
